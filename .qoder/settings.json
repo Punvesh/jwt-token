@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "ask": [
+      "Read(!C:\\Users\\rahil\\OneDrive\\Desktop/**)",
+      "Edit(!C:\\Users\\rahil\\OneDrive\\Desktop/**)"
+    ],
+    "allow": [
+      "Read(C:\\Users\\rahil\\OneDrive\\Desktop/**)",
+      "Edit(C:\\Users\\rahil\\OneDrive\\Desktop/**)"
+    ]
+  },
+  "memoryImport": {},
+  "monitoring": {}
+}

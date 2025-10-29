@@ -1,0 +1,9 @@
+public class name{
+static string display(string s)
+{
+return s;
+}
+public static void main(String[] args){
+System.out.println(display("Rahil"));
+}
+}

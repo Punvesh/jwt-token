@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "ask": [
+      "Read(!C:\\Users\\rahil\\OneDrive\\Desktop\\assignmentfinacle/**)",
+      "Edit(!C:\\Users\\rahil\\OneDrive\\Desktop\\assignmentfinacle/**)"
+    ],
+    "allow": [
+      "Read(C:\\Users\\rahil\\OneDrive\\Desktop\\assignmentfinacle/**)",
+      "Edit(C:\\Users\\rahil\\OneDrive\\Desktop\\assignmentfinacle/**)"
+    ]
+  },
+  "memoryImport": {},
+  "monitoring": {}
+}
